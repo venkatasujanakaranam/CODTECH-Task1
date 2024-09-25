@@ -27,15 +27,12 @@ Frontend Development: Designing user interfaces with HTML, CSS, and JavaScript f
 Backend Development: Building server-side applications using frameworks like Express.js or Flask.
 
 Technologies Used
-
 Frontend:
-
 HTML
 CSS (with frameworks like Bootstrap or Tailwind)
 JavaScript (with libraries/frameworks like React, Angular, or Vue.js)
 
 Backend:
-
 Node.js with Express.js
 Python with Flask or Django
 Ruby on Rails
